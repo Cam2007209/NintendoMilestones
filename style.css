@@ -1,0 +1,21 @@
+h2{
+    font-size: 50px;
+}
+h1{
+    color:mediumblue;
+}
+#didnt-play{ 
+    color:rgb(156, 43, 43);
+}
+#header{
+    font-size: 200px;
+    color:royalblue;
+    text-align: center;
+}
+#played{
+color:rgb(33, 85, 163);
+}
+.lint{
+color:black;
+text-align: center;
+}
