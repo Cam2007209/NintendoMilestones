@@ -7,15 +7,41 @@ h1{
 #didnt-play{ 
     color:rgb(156, 43, 43);
 }
-#header{
+#head{
     font-size: 200px;
     color:royalblue;
     text-align: center;
 }
 #played{
 color:rgb(33, 85, 163);
+font-weight:bolder;
 }
 .lint{
-color:black;
+color:rgb(73, 71, 206);
 text-align: center;
+}
+#body{
+    background-color:gray;
+}
+.devices{
+    background-color:royalblue;
+    color:red;
+    font-weight: bold;
+    font-size:x-large
+}
+.pic{
+    width:250px;
+    height:250px;
+}
+.systems{
+    text-align: center;
+    color:red;
+    font-size:40px;
+    font-family:fantasy;
+}
+#ms-img{
+    align-content: center;
+}
+p{
+    text-align: center;
 }
