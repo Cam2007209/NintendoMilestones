@@ -39,9 +39,15 @@ text-align: center;
     font-size:40px;
     font-family:fantasy;
 }
-#ms-img{
-    align-content: center;
+.ms-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 p{
     text-align: center;
+}
+.systems:hover{
+    color:skyblue;
 }
